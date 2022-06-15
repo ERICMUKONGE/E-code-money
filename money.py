@@ -59,7 +59,9 @@ def money():
     elif (choice == "6"):
         option6()
     else:
-       print("Invaild input,Please go back to main menu")            
+       print("Invaild input,Please go back to main menu") 
+
+    print("Yo")           
                
     
 money()    
